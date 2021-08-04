@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>VID_20180601_110656.mp4_frame_3267.jpg</filename>
+	<path>/home/nikolas/Documents/NNTesting/datasets/strawberry/images/VID_20180601_110656.mp4_frame_3267.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>strawberry</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>431</xmin>
+			<ymin>210</ymin>
+			<xmax>463</xmax>
+			<ymax>247</ymax>
+		</bndbox>
+	</object>
+</annotation>
